@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": " rak1etamc.aternos.me",
+    "port": 56638,
     "version": "",
     "try-creative": false
   },
